@@ -10,7 +10,7 @@ import javax.annotation.Nonnull;
 
 public class DiscordBot extends JDABot {
 
-    public final static String                INVITE = "https://discordapp.com/api/oauth2/authorize?client_id=500032551977746453&permissions=59456&scope=bot";
+    public final static String                INVITE = "https://discord.com/oauth2/authorize?client_id=Vencia#8495&scope=bot&permissions=744513";
     public static       JDA                   jda;
     private static      DiscordBot            instance;
     private final       CrossoutConfiguration config;
